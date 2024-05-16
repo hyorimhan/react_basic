@@ -1,0 +1,11 @@
+.content {
+  display: flex;
+  width: 100vw;
+  height: 300vh;
+  background-color: skyblue;
+
+  justify-content: center;
+  align-items: center;
+
+  font-size: 150px;
+}
